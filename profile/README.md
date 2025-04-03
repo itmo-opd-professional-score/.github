@@ -10,3 +10,4 @@ Our goal is to develop a service that will allow users to receive recommendation
 ## Git rules
 
 ### [Branches & Pull requests](../rules-branch-and-pull-requests.md)
+### [Commits & Commits convention](../commits-convention-rules.md)
